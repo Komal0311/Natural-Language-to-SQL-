@@ -35,6 +35,3 @@ Environment Config	                        python-dotenv
 -Results are displayed in the app.
 -Temporary DB is deleted after execution.
 
-❤️**Contributors**
-Komal Sharma
-Ishika Panwar
