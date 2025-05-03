@@ -1,4 +1,3 @@
-# Natural-Language-to-SQL-
 **NATURAL LANGUAGE TO SQL CONVERTER USING LLM**
 
 *This project is a Streamlit-based web app that allows users to upload structured data files (CSV, Excel, PDF, Word) and query them using natural language. The app uses Google Gemini 1.5 Pro via the Generative AI API to convert plain English queries into SQL statements.*
